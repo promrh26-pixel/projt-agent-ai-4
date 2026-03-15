@@ -6,3 +6,4 @@ streamlit>=1.0
 pdfminer.six>=20220624
 PyPDF2>=3.0
 python-docx>=0.8.11
+altair==4.2.2
